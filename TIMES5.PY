@@ -15,6 +15,7 @@ for o in range(7):
     Head.append(heading[o].text)
 print(Link)
 
+
 Paras=[]
 
 for lnk in Link:
